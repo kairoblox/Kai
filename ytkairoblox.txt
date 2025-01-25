@@ -23,6 +23,7 @@ local Tabs = {
 	Misc = Window:AddTab({ Title = "Lặt vặt", Icon = "list-plus" }),
 }
 local Options = Fluent.Options
+do
 
 --Place Id Check
 local id = game.PlaceId
