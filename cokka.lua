@@ -1309,11 +1309,11 @@ game:GetService("Players").LocalPlayer.Idled:connect(function()
 end)
 MethodFarm = CFrame.new(0, 10, 10)
 local L_35_ = {
-	Main = L_34_:Tab("Main Farm"),
-	Setting = L_34_:Tab("Settings"),
-	Dragon = L_34_:Tab("Dragon Dojo"),
-	Status = L_34_:Tab("Status"),
-	SeaEvent = L_34_:Tab("Sea Events"),
+	Main = L_34_:Tab("HAHA "),
+	Setting = L_34_:Tab("hiếu"),
+	Dragon = L_34_:Tab("Hàng Real"),
+	Status = L_34_:Tab("Source"),
+	SeaEvent = L_34_:Tab("Ng Th"),
 	Kitsune = L_34_:Tab("Kitsune Island"),
 	QuestItem = L_34_:Tab("Quest & Item"),
 	PVP = L_34_:Tab("PVP Combat"),
